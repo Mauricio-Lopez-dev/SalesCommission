@@ -1,9 +1,8 @@
 /*
- * Author: Mauricio Lopez Alvarez  **
+ * Author: Mauricio Lopez Alvarez   **
  * Date written: January 10th, 2024 **
- * Purpose:...Homework 1           **
-*/
-
+ * Purpose:...Homework 1            **
+ */
 package cop2805;
 
 public class SalesCommission 
